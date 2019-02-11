@@ -1,3 +1,3 @@
 
 console.log('DD');
-cosole.log('RR');
+console.log('RR');
